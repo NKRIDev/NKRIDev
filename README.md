@@ -9,5 +9,6 @@ Hey ! I am really **passionate** about computers. I want to reorient myself towa
 
 • Mysql
 • Git
-• IntelliJ
+• Gradle
 • Eclipse
+
