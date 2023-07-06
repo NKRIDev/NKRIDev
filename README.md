@@ -2,7 +2,7 @@
 
 **Hey!** I am [NKRI](https://www.youtube.com/channel/UCScNs7j9c9861osea7H2qIw) java developer.
 
-Coding Java since 2020.
+Coding Java since 2021.
 
 # 🎨About Me
 
