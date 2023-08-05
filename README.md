@@ -1,6 +1,6 @@
 # 🎈Welcome
 
-**Hey!** I am [NKRI](https://www.youtube.com/channel/UCScNs7j9c9861osea7H2qIw) java developer.
+**Hey!** I am [NKRI](https://www.youtube.com/channel/UCScNs7j9c9861osea7H2qIw) french java developer.
 
 Coding Java since 2021.
 
