@@ -2,7 +2,7 @@
 
 **Hey!** I am [NKRI](https://www.youtube.com/channel/UCScNs7j9c9861osea7H2qIw) french java developer, i am 17 years old.
 
-Coding Java since 2021.
+Coding Java since 2022.
 
 # 🎨About Me
 
