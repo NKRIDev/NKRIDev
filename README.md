@@ -14,7 +14,7 @@ Coding Java since 2022.
 # 🔗Contact Me
 Can you with [discord](https://discord.com/invite/F8MUXZEy59)? or maybe [twitter](https://twitter.com/DevNkri)? my [email](nkri.dev@gmail.com) ? the choice is yours (I answer faster on discord)
 # 🎲Computer Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![My Status](https://github-readme-stats.vercel.app/api?username=NKRIDev&show_icons=true&theme=dark)
