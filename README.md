@@ -36,9 +36,9 @@
 <h2 align="left">Programming skills</h2>
 
 ###
-<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NKRIDev&show_icons=true&theme=dracula"/>
+<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NKRIDev&show_icons=true&theme=dark"/>
 
-![My Status](https://github-readme-stats.vercel.app/api?username=NKRIDev&show_icons=true&theme=dracula)
+![My Status](https://github-readme-stats.vercel.app/api?username=NKRIDev&show_icons=true&theme=dark)
 
 
 <h2 align="left">My link</h2>
