@@ -3,7 +3,6 @@
 
 [![Github](https://img.shields.io/github/followers/NKRIDev?label=Follow&style=social)](https://github.com/NKRIDev)
 
-- 🔮 Works at  [**DeviaStudio**](https://discord.gg/s53CnFqjnM), minecraft server creation studio. 
 - 📚 I'm currently learning **Web languages**.
 - 🎯My Goal: Master's degree in computer engineering.
 - 💬17 years old, passionate about IT and science.
