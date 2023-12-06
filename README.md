@@ -4,7 +4,6 @@
 [![Github](https://img.shields.io/github/followers/NKRIDev?label=Follow&style=social)](https://github.com/NKRIDev)
 
 - 📚 I'm currently learning **Web languages**.
-- 🎯My Goal: Master's degree in computer engineering.
 - 💬17 years old, passionate about IT and science.
 - 📫 How to reach me? [**Discord**](https://discord.gg/ECvtCadqDF)
 
