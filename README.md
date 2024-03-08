@@ -13,7 +13,6 @@
 - Mastery of several programming languages.
 - Understanding of basic software development concepts.
 - Teamwork and collaboration.
-- Ability to solve problems.
 
 
 ### ⚙️ Tech Stack
