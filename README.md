@@ -10,7 +10,6 @@
 
 ### 📑 Skills
 
-- Mastery of several programming languages.
 - Understanding of basic software development concepts.
 - Teamwork and collaboration.
 
