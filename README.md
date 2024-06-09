@@ -56,6 +56,7 @@
 
 ![My Status](https://github-readme-stats.vercel.app/api?username=NKRIDev&show_icons=true&theme=dark)
 
+
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities or knowledge sharing. Let's build something great together!
