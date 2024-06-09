@@ -17,6 +17,8 @@
 ## 📫 How to Reach Me
 
 - [**Discord**](https://discord.gg/ECvtCadqDF): Let's connect and discuss potential collaborations or share knowledge.
+- [**Twitter**](https://x.com/DevNkri): Come discover my projects and future projects via little tweets.
+- [**Portfolio**](https://devnkri.fr/): Explore my portfolio to discover my projects, my creations and learn more about my background and my skills.
 
 ## 📑 Skills
 
@@ -55,6 +57,10 @@
 
 
 ![My Status](https://github-readme-stats.vercel.app/api?username=NKRIDev&show_icons=true&theme=dark)
+
+
+
+
 
 
 ---
