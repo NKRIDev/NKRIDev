@@ -12,7 +12,7 @@
 
 - **Experience**: Demonstrated experience in software development with a solid understanding of core concepts.
 - **Teamwork**: Proven ability to collaborate effectively within teams to achieve project goals.
-- **Passion**: Deeply passionate about IT, constantly staying updated with the latest industry trends and technologies.
+- **Passion**: Passionate about computer science and physics, I constantly stay up to date with the latest trends and technologies in the sector.
 
 ## 📫 How to Reach Me
 
