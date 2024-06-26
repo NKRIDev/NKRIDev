@@ -6,7 +6,7 @@
 
 ## 📚 Current Learning
 
-- **Web languages**: Actuellement entrain d'apprendre les langages du web (Php).
+- **Web languages**: Currently learning web languages.
 
 ## 💼 Professional Summary
 
