@@ -52,11 +52,9 @@
 
 ## 📈 GitHub Stats
 
-<img align="left" alt="Language Stats" src="[https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NKRIDev&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=NKRIDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph)"/>
+<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NKRIDev&show_icons=true&theme=dark"/>
 
-
-![My Status]([https://github-readme-stats.vercel.app/api?username=NKRIDev&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api/top-langs?username=NKRIDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph))
-
+![My Status](https://github-readme-stats.vercel.app/api?username=NKRIDev&show_icons=true&theme=dark)
 
 
 
