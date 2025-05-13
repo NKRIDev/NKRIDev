@@ -32,6 +32,7 @@
 
 ![Java](https://img.shields.io/badge/-java-05122A?style=for-the-badge&logo=java&color=313131) 
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=Javascript&color=313131) 
+![Python](https://img.shields.io/badge/-python-05122A?style=for-the-badge&logo=python&color=313131)
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&color=313131)
 ![VueJS](https://img.shields.io/badge/-Vue-05122A?style=for-the-badge&logo=Vuejs&color=313131)
 
