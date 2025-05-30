@@ -2,17 +2,17 @@
 
 [![Github](https://img.shields.io/github/followers/NKRIDev?label=Follow&style=social)](https://github.com/NKRIDev)
 
-👋 Hello! I'm NKRIDev, a software developer with a passion for technology and continuous learning. At 18 years old, I am enthusiastic about IT and science, always eager to tackle new challenges and contribute to innovative projects.
-
-## 📚 Current Learning
-
-- **Web languages**: Currently learning web languages.
+👋 Hello! I'm NKRIDev, a software developer with a passion for technology and continuous learning. At 19 years old, I am enthusiastic about IT and science, always eager to tackle new challenges and contribute to innovative projects.
 
 ## 💼 Professional Summary
 
 - **Experience**: Demonstrated experience in software development with a solid understanding of core concepts.
 - **Teamwork**: Proven ability to collaborate effectively within teams to achieve project goals.
 - **Passion**: Passionate about computer science and physics, I constantly stay up to date with the latest trends and technologies in the sector.
+
+## 📚 Current Learning
+
+- **Web languages**: Currently learning web languages.
 
 ## 📫 How to Reach Me
 
