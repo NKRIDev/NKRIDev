@@ -18,7 +18,7 @@ I’m especially fond of **Java** and **modern JavaScript frameworks** React or 
 
 ## 🌍 Popular Projects
 
-- minozia.fr (Java)  
+- Minozia (Java)  
 - Devia Studio (Java)
 
 ---
