@@ -18,8 +18,8 @@ I’m especially fond of **Java** and **modern JavaScript frameworks** React or 
 
 ## 🌍 Popular Projects
 
-- Minozia (Java)  
-- Devia Studio (Java)
+- Minozia : *Modded Minecraft server focused on PvP and factions*
+- Devia Studio : *Studio for creating and editing Minecraft servers for all versions*
 
 ---
 
