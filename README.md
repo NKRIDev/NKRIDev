@@ -4,7 +4,7 @@
 I'm **NKRIDev**, a passionate software developer from France.
 
 Coding in Java since my early teens, and diving into web development more recently.
-
+Passionate about programming, I love creating, solving technical problems and seeing my ideas become real. 
 ---
 
 ## ☕ What Drives Me
