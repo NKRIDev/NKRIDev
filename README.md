@@ -3,8 +3,7 @@
 
 I'm **NKRIDev**, a passionate software developer from France.
 
-Coding in Java since my early teens, and diving into web development more recently.  
-I’m especially fond of **Java** and **modern JavaScript frameworks** React or Vue.js.
+Coding in Java since my early teens, and diving into web development more recently.
 
 ---
 
