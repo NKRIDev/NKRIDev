@@ -19,7 +19,7 @@ I'm **NKRIDev**, a passionate software developer from France.
 ## 🌍 Popular Projects
 
 - Minozia : *Modded Minecraft server focused on PvP and factions*
-- Devia Studio : *Studio for creating and editing Minecraft servers for all versions*
+- PolarGames : *Studio for creating and editing Minecraft servers for all versions*
 
 ---
 
