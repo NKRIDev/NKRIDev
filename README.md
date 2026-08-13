@@ -7,9 +7,9 @@ I am **NKRIDev**, a French developer passionate about software engineering.
 
 ## ☕ What Drives Me
 
-- **Turning code into reality** — Bringing ideas to life and building real-world software.
-- **Problem Solving** — Tackling complex logic, performance tuning, and designing solid architectures.
-- **Continuous Learning** — Exploring new technologies, system programming, and AI integration.
+- **Turning code into reality** : Bringing ideas to life and building real-world software.
+- **Problem Solving** : Tackling complex logic, performance tuning, and designing solid architectures.
+- **Continuous Learning** : Exploring new technologies, system programming, and AI integration.
 
 ---
 
