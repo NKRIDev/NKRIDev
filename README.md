@@ -35,10 +35,8 @@ Whether here on GitHub or on Discord, Twitter, or my website, I’m open to chat
 
 ### 📬 Connect with me
 
-🌐 **Website**: [kilyannbujaud.fr](https://www.kilyannbujaud.fr)  
-💼 **LinkedIn**: [Kilyann Bujaud](https://www.linkedin.com/in/kilyann-bujaud-40b886338/)  
-🐦 **X / Twitter**: [@DevNkri](https://x.com/DevNkri)
-💬 **Discord**: [Discord](https://discord.gg/dkxWh58TqP)
+🌐 **Website**: [kilyannbujaud.fr](https://www.kilyannbujaud.fr)  - 💼 **LinkedIn**: [Kilyann Bujaud](https://www.linkedin.com/in/kilyann-bujaud-40b886338/)  
+🐦 **X / Twitter**: [@DevNkri](https://x.com/DevNkri) - 💬 **Discord**: [Discord](https://discord.gg/dkxWh58TqP)
 ---
 
 Thanks for visiting — let’s create something amazing together! 🚀
